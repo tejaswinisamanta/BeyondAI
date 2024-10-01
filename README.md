@@ -1,6 +1,6 @@
 # BeyondAI
 
-(Click here) Complete the assigned Khan Academy quizzes
+# 1. PDF of all completed assigned Khan Academy quizzes
 
-<a href="assets/Tejaswini_Samanta_Resume.pdf" class="contact-link">Click here to open</a>
+<a href="assets/Khan Academy Assignments.pdf" class="contact-link">Click here to open</a>
             </div>
